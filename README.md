@@ -23,7 +23,7 @@
 - Various results, including confusion matrices and images, are available in the [train2](train2) directory.
 
 ## Example Output
-![Example Output](./train/val_batch0_pred.jpg)
+![Example Output](./train/val_batch1_pred.jpg)
 
 
 ## License
