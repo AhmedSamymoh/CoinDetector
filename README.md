@@ -7,9 +7,6 @@
   <a href="#model">Model</a> •
   <a href="#training">Training</a> •
   <a href="#results">Results</a> •
-  <a href="#example-output">Example Output</a> •
-  <a href="#license">License</a> •
-  <a href="#acknowledgments">Acknowledgments</a>
 </div>
 
 ---
@@ -17,6 +14,7 @@
 <p align="center">
   Welcome to CoinDetector, a state-of-the-art computer vision model designed for detecting and classifying Egyptian coins. This repository contains everything you need to get started with object detection and recognition tasks using our YOLOv8-based model.
 </p>
+
 ![Example Output](./Model/output.jpg)
 
 ## Contents
