@@ -40,10 +40,3 @@
 ![Example Output](./train/val_batch1_pred.jpg)
 
 
-## License
-
-This project is licensed under the [IMT] License
-
-## Acknowledgments
-
-- Mention any credits or acknowledgments here.
