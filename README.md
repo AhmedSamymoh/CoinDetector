@@ -31,10 +31,10 @@
 - The YOLOv8 model and weights are available in the [Model](Model) directory.
 
 ## Training
-- Details about the training process and configuration can be found in the [train2](train2) directory.
+- Details about the training process and configuration can be found in the [train2](train) directory.
 
 ## Results
-- Various results, including confusion matrices and images, are available in the [train2](train2) directory.
+- Various results, including confusion matrices and images, are available in the [train2](train) directory.
 
 ## Example Output
 ![Example Output](./train/val_batch1_pred.jpg)
